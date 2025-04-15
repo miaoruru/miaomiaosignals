@@ -1,0 +1,14 @@
+{
+  "name": "miaomiaosignalsbot",
+  "version": "1.0.0",
+  "description": "Telegram crypto trading assistant",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.5.0",
+    "dotenv": "^16.3.1",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
